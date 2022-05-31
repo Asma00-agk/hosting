@@ -1,0 +1,66 @@
+body {
+    margin: 50px;
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    background-color: rgb(15, 33, 49);
+    text-align: center;
+    color: white;
+}
+
+.one{
+    background: fixed;
+    background-color: rgb(245, 245, 245);
+    color: black;
+}
+.go{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+
+}
+.p{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    
+}
+
+
+.div1{
+    background-color: rgb(35, 66, 93);
+    image-rendering: auto;
+    list-style: upper-alpha;
+    margin: 0%;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-bottom: 0%;
+    text-align: center;
+    font-size: larger;     
+}
+
+.class{
+    list-style: url();
+    line-height: 0pt;
+    
+}
+
+.btn{
+    background-color: rgb(12, 13, 57);
+    padding: auto;
+}
+
+
+.video-js{
+    text-align: center;
+    margin: 20%;
+ 
+}
+
+#my-video{
+  background: fixed;
+  background-color: rgb(35, 66, 93);
+}
+
+
